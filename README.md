@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React and Swift  
   
 
-- ⚡ Fun fact: I was a former Overwatch Top 500 and Top player in OSU  
+- ⚡ Fun fact: I was a former Overwatch Top 500 and Top player in OSU. I am also a big fan of EDM Music, some of my favorites include Porter Robinson, Madeon, and G Jones to name a few!  
   
 
 <br/>  
