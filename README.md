@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Christopher, a full-time college student and aspiring AI Engineer 👨‍💻Programming Since 2016 🚀</div>  
+### <div align="center">I'm Christopher, a Software Enginner with a batchelors 👨‍💻Programming Since 2016 🚀</div>  
   
 
-- 🔭 I’m currently working on an all purpose discord bot  
+- 🔭 I’m currently working on an browser embedded LLM and my personal project Ambiente(a 24/7 LoFi Web Bot)  
   
 
 - 🌱 I’m currently learning React and Swift  
