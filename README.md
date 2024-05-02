@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Christopher, a Software Enginner with a batchelors 👨‍💻Programming Since 2016 🚀</div>  
+### <div align="center">I'm Christopher, a Software Engineer with a bachelor's 👨‍💻Programming Since 2016 🚀</div>  
   
 
-- 🔭 I’m currently working on an browser embedded LLM and my personal project Ambiente(a 24/7 LoFi Web Bot)  
+- 🔭 I’m currently working on a browser-embedded LLM and my project Ambiente(a 24/7 LoFi Web Bot)  
   
 
 - 🌱 I’m currently learning React and Swift  
   
 
-- ⚡ Fun fact: I was a former Overwatch Top 500 and Top player in OSU. I am also a big fan of EDM Music, some of my favorites include Porter Robinson, Madeon, and G Jones to name a few!  
+- ⚡ Fun fact: I was a former Overwatch Top 500 and Top player at OSU. I am also a big fan of EDM Music, some of my favorites include Porter Robinson, Madeon, and G Jones to name a few!  
   
 
 <br/>  
