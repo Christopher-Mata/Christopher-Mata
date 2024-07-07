@@ -121,11 +121,16 @@
 
 <br/>  
 
-<p>
-<a href=https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qc9ow233sqy1bbmhwvivda6xx&redirect=true>
-<img src=https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qc9ow233sqy1bbmhwvivda6xx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false/>
-</a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qc9ow233sqy1bbmhwvivda6xx&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qc9ow233sqy1bbmhwvivda6xx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile"/>
+    </a>
+  </p>
+  <br/>
+
+  <iframe src="https://open.spotify.com/playlist/5ATBKivXP9yUI6OYre1wnm?si=8582618c72de422d" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
 
 <br/>  
 
