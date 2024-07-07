@@ -120,7 +120,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qc9ow233sqy1bbmhwvivda6xx&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qc9ow233sqy1bbmhwvivda6xx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]] 
 
 <br/>  
 
