@@ -1,13 +1,13 @@
-### <div align="center">I'm Christopher, a full-time software engineer 👨‍💻 programming since 2015 🚀</div>  
+### <div align="center">I'm Christopher, a full-time software engineer 👨‍💻 developing since 2015 🚀</div>  
   
 
-- 🔭 I’m currently working on [an Embedded AI](https://github.com/Christopher-Mata/UWP-Chatbot)  
+- 🔭 I’m working on bridging marine ECU and independent module data to frontend displays!
   
 
-- 🌱 I’m currently learning Kubernetes and Next13  
+- 🌱 I’m currently learning embedded systems engineering practices!
   
 
-- ⚡ Fun fact: I was a former Overwatch top 500 and a current music fanatic  
+- ⚡ Fun fact: I was a former Overwatch Top 500 and a long-time music addict! Hope to see you out in the raves!
   
 
 <br/>  
