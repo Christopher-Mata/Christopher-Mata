@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning embedded systems engineering practices!
   
 
-- ⚡ Fun fact: I was a former Overwatch Top 500 and a long-time music addict! Hope to see you out in the raves!
+- ⚡ Fun fact: I was a former Overwatch Top 500 and a long-time music addict!
   
 
 <br/>  
