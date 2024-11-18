@@ -4,7 +4,7 @@
 - 🔭 I’m working on bridging marine ECU and independent module data to frontend displays!
   
 
-- 🌱 I’m currently learning embedded systems engineering practices!
+- 🌱 I’m currently learning embedded systems engineering!
   
 
 - ⚡ Fun fact: I was a former Overwatch Top 500 and a long-time music addict!
