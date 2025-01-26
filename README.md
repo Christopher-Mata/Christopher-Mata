@@ -1,13 +1,13 @@
 ### <div align="center">I'm Christopher, a full-time software engineer 👨‍💻 developing since 2015 🚀</div>  
   
 
-- 🔭 I’m working on bridging marine ECU and independent module data to frontend displays!
+- 🔭 I am a Software Engineer for Navico, a subsidiary of Brunswick. I bridge marine NM2K data, independent module data, and PLC units to front-end displays!
   
 
-- 🌱 I’m currently learning embedded systems engineering!
+- 🌱 I’m currently learning Computation and Automata, Natural Language Processing, and Music Production!
   
 
-- ⚡ Fun fact: I was a former Overwatch Top 500 and a long-time music addict!
+- ⚡ Fun fact: I was a former Overwatch 1 Top 500, won many Tekken local tournaments, and a long-time raver!
   
 
 <br/>  
