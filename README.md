@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Computation and Automata, Natural Language Processing, and Music Production!
   
 
-- ⚡ Fun fact: I was a former Overwatch 1 Top 500, won many Tekken local tournaments, and a long-time raver!
+- ⚡ Fun fact: I am an amateur music producer and a long-time raver!
   
 
 <br/>  
